@@ -1,0 +1,11 @@
+.searchUi{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.input{
+    width: 300px;
+    font-size: 13px;
+    font-family: var(--font-links);
+}

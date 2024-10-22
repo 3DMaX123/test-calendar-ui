@@ -1,0 +1,12 @@
+:root{
+    --tc-nav-bar-text: #FFF;
+    --tc-control-user-name: #4D4F5C;
+    --bg-nav-bar-choosed: #3C3B53;
+    --bg-nav-bar-links: #43425D;
+    --bg-nav-bar-stick: #A3A0FB;
+    --bg-nav-bar-header: #3C3B53;
+    --bg-control-notification-circle: #FFC06A;
+    --bg-control-separate-sign: #EBEBF2;
+    --font-nav-bar-header: "Source Sans Pro Bold";
+    --font-links: "Source Sans Pro Regular";
+}
